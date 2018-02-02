@@ -1,17 +1,10 @@
 {
-  "name": "vishalshahspersonalwebsite",
+  "name": "staticsiteboilerplate",
   "version": "1.0.0",
-  "description": "A portfolio of Vishal Shah's work.",
+  "description": "A boilerplate for static sites with Pug and Sass.",
   "author": "Vishal Shah",
   "repository": {},
-  "keywords": [
-    "Vishal",
-    "Shah",
-    "Teenager",
-    "Programming",
-    "Portfolio",
-    "Projects"
-  ],
+  "keywords": [],
   "scripts": {
     "clean": "rimraf dist/{css/*,js/*,images/*}",
     "autoprefixer": "postcss -u autoprefixer -r dist/css/*",
